@@ -65,11 +65,3 @@ Downloading sanction letter -
 `curl http://localhost:8000/download-sanction-letter/YOUR_SESSION_ID --output sanction_letter.pdf`
 
 
-
-## About Us:
-Team – SyntaxErr<br>
-Project – Cred Saathi<br>
-Hriddhiman – Frontend(Next.js), UI/UX<br>
-Shorya – presentation, logo, AI agents<br>
-Shreejan – AI agents<br>
-Yasin – Backend , AI agent integration , database<br>
